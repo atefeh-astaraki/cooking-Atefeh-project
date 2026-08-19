@@ -5,3 +5,10 @@ I want to collect my favourite recipes and add a new recipe every week.
 
 First recipe:
 Fesenjan
+Ingredients:
+- Chicken
+- Walnuts
+- Pomegranate molasses
+- Onion
+- Salt
+- Pepper
